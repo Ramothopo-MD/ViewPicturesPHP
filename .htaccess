@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^make-memory$ index.php [L]
+RewriteRule ^view-memories$ index.php [L]
